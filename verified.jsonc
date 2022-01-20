@@ -1,0 +1,10 @@
+{
+    "name": "SOSMarket",
+    "markets": [
+        {
+            "id": 0,
+            "netowrk_id": 1
+        }
+    ]
+}
+
