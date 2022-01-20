@@ -2,8 +2,8 @@
     "name": "SOSMarket",
     "markets": [
         {
-            "id": 3,
-            "netowrk_id": 4
+            "id": 0,
+            "netowrk_id": 1
         }
     ]
 }
