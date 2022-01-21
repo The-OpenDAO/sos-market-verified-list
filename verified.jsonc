@@ -1,10 +1,12 @@
 {
     "name": "SOSMarket",
     "markets": [
-        {
-            "id": 0,
-            "netowrk_id": 1
-        }
+        { "id": 14, "netowrk_id": 1 },
+        { "id": 15, "netowrk_id": 1 },
+        { "id": 16, "netowrk_id": 1 },
+        { "id": 17, "netowrk_id": 1 },
+        { "id": 18, "netowrk_id": 1 },
+        { "id": 19, "netowrk_id": 1 }
     ]
 }
 
