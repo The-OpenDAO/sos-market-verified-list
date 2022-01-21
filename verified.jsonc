@@ -1,12 +1,12 @@
 {
     "name": "SOSMarket",
     "markets": [
-        { "id": 14, "netowrk_id": 1 },
-        { "id": 15, "netowrk_id": 1 },
-        { "id": 16, "netowrk_id": 1 },
-        { "id": 17, "netowrk_id": 1 },
-        { "id": 18, "netowrk_id": 1 },
-        { "id": 19, "netowrk_id": 1 }
+        { "id": 14, "network_id": 1 },
+        { "id": 15, "network_id": 1 },
+        { "id": 16, "network_id": 1 },
+        { "id": 17, "network_id": 1 },
+        { "id": 18, "network_id": 1 },
+        { "id": 19, "network_id": 1 }
     ]
 }
 
