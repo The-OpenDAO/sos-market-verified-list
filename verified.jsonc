@@ -6,7 +6,8 @@
         { "id": 2, "network_id": 1 },
         { "id": 3, "network_id": 1 },
         { "id": 4, "network_id": 1 },
-        { "id": 5, "network_id": 1 }
+        { "id": 5, "network_id": 1 },
+        { "id": 7, "network_id": 1 }
     ]
 }
 
